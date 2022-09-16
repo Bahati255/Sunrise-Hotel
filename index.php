@@ -28,6 +28,8 @@ https://templatemo.com/tm-558-klassy-cafe
     <link rel="stylesheet" href="assets/css/owl-carousel.css">
 
     <link rel="stylesheet" href="assets/css/lightbox.css">
+    
+    
 
     </head>
     
@@ -70,7 +72,10 @@ https://templatemo.com/tm-558-klassy-cafe
 
     <!-- ***** Menu Area Starts ***** -->
    <?php include "menuarea.php";?>
-    <!-- ***** Chefs Area Ends ***** --> 
+    
+   <!-- ***** signup page ***** --> 
+    
+    <!-- ***** signup ends ***** -->
     
     <!-- ***** Footer Start ***** -->
     <?php include "footer.php";?>

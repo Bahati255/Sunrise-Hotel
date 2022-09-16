@@ -3,10 +3,18 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "cafedb";
+$dbname = "sunrise" ;
 // Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
+$conn = mysqli_connect($servername, $username, $password, $dbname);
 
 
 
 ?>
+/*
+<?php
+$username="root";
+$password="";
+$host="localhost";
+$database="practise";
+?>
+/*
