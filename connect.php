@@ -2,7 +2,7 @@
 //establish a connection to our server
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "root4865";
 $dbname="sunrise";
 
 
